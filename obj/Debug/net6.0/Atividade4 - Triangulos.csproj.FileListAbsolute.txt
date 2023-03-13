@@ -1,0 +1,15 @@
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at4\Atividade4 - Triangulos\bin\Debug\net6.0\Atividade4 - Triangulos.exe
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at4\Atividade4 - Triangulos\bin\Debug\net6.0\Atividade4 - Triangulos.deps.json
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at4\Atividade4 - Triangulos\bin\Debug\net6.0\Atividade4 - Triangulos.runtimeconfig.json
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at4\Atividade4 - Triangulos\bin\Debug\net6.0\Atividade4 - Triangulos.dll
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at4\Atividade4 - Triangulos\bin\Debug\net6.0\Atividade4 - Triangulos.pdb
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at4\Atividade4 - Triangulos\obj\Debug\net6.0\Atividade4 - Triangulos.csproj.AssemblyReference.cache
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at4\Atividade4 - Triangulos\obj\Debug\net6.0\Atividade4 - Triangulos.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at4\Atividade4 - Triangulos\obj\Debug\net6.0\Atividade4 - Triangulos.AssemblyInfoInputs.cache
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at4\Atividade4 - Triangulos\obj\Debug\net6.0\Atividade4 - Triangulos.AssemblyInfo.cs
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at4\Atividade4 - Triangulos\obj\Debug\net6.0\Atividade4 - Triangulos.csproj.CoreCompileInputs.cache
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at4\Atividade4 - Triangulos\obj\Debug\net6.0\Atividade4 - Triangulos.dll
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at4\Atividade4 - Triangulos\obj\Debug\net6.0\refint\Atividade4 - Triangulos.dll
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at4\Atividade4 - Triangulos\obj\Debug\net6.0\Atividade4 - Triangulos.pdb
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at4\Atividade4 - Triangulos\obj\Debug\net6.0\Atividade4 - Triangulos.genruntimeconfig.cache
+D:\FACULDADE\2PERIODO\AED\ATIVIDADES\at4\Atividade4 - Triangulos\obj\Debug\net6.0\ref\Atividade4 - Triangulos.dll
